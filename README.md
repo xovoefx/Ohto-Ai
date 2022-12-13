@@ -22,7 +22,9 @@ An awesome, deployable, simple, non spammy, auth-system enabled, multi-chat musi
 
 ---
 
-### Deploy to railways:
+## Deploy to railways:
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/ZXnsf3?referralCode=Duw4MO)
 
 I recommend deploying on railways, because it lags relatively less than heroku (almost lagless)
 
