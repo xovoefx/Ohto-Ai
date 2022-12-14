@@ -3,3 +3,11 @@ services:
   worker:
     build: .
     environment:
+      API_ID: $API_ID
+      API_HASH: $API_HASH
+      SESSION_NAME: $SESSION_NAME
+      BOT_TOKEN: $BOT_TOKEN
+      OWNER_ID: $OWNER_ID
+      START_PIC: $START_PIC
+      PLAY_PIC: $PLAY_PIC
+      SUDO_USERS: $SUDO_USERS
